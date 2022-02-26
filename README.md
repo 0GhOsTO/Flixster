@@ -25,7 +25,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="CP-1.gif" width=250><br>
 
 ### Notes
 There were so many challenges that I confront. First of all, I did not notice android studio can make this much of the errors throughout the coding. First major error was debugging the error code500. I was wondering the reason of continuous error and the solution of it was simple. All I had to do was just uninstall the application and redownload it on the emulator. That way, it forcely refreshs the application and resync with the emulator. Secondary problem I confront was where I accidently put the image in the textview and text in the imageview. I had to change the code for it. Last debugging was about the github. Continuously giving the error saying, it won't be upload and parse can not be understand. Found out the reason behind was when the link between android studio and the github is loose, it happens, allowing almost impossible to push the project. Glad I solved it.This debugging took 3hours due to lack of resource. Making me ending up download winget and github CLI. It was worth to do. 
